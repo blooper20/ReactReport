@@ -1,0 +1,10 @@
+$font-family: sans-serif;
+$primary-color: #333;
+
+body {
+    font: 100% $font-family;
+    color: $primary-color;
+}
+
+h1 { color: $primary-color; }
+p { color: $primary-color; }
